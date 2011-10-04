@@ -17,8 +17,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "csp_easy"
   gem.homepage = "http://github.com/chinmaygarde/csp_easy"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{Easy CSP Management}
+  gem.description = %Q{Rack middleware for Content Security Policy}
   gem.email = "chinmaygarde@gmail.com"
   gem.authors = ["Chinmay Garde"]
   # dependencies defined in Gemfile
